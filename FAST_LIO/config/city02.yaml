@@ -1,10 +1,10 @@
 /**:
   ros__parameters:
     common:
-      # lid_topic: "/ouster/points"
-      lid_topic: "/os_cloud_node/points"
-      # imu_topic: "/imu/data_raw"
-      imu_topic: "/xsens_imu_data"
+      lid_topic: "/ouster/points"
+      # lid_topic: "/os_cloud_node/points"
+      imu_topic: "/imu/data_raw"
+      # imu_topic: "/xsens_imu_data"
       time_sync_en: false
       time_offset_lidar_to_imu: 0.0
 
